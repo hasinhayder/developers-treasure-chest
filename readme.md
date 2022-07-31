@@ -1,6 +1,12 @@
 # Developers Treasure Chest
 Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The Developers. Updates Frequently
 
+## 1st August, 2022
+
+### PHP 
+
+* [JWT Framework](https://web-token.spomky-labs.com) - This project is a framework that provides an implementation of JWS, JWE, JWK, JWA and JWT
+
 ## 31st July, 2022
 
 ### JavaScript & TypeScript
