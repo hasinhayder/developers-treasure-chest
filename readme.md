@@ -7,6 +7,11 @@ Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The
 
 * [JWT Framework](https://web-token.spomky-labs.com) - This project is a framework that provides an implementation of JWS, JWE, JWK, JWA and JWT
 
+### Misc 
+
+* [FrontEnd Developer Roadmap](https://www.linkedin.com/posts/slobodan-gajic_frontend-roadmap-activity-6958457082626863104-MHsY?utm_source=linkedin_share&utm_medium=member_desktop_web) - A Fantastic Frontend Developer Roadmap
+* [Backend Developer Roadmap](https://www.linkedin.com/posts/slobodan-gajic_backend-roadmap-activity-6959173689858752513-BH2r?utm_source=linkedin_share&utm_medium=member_desktop_web) - A great Backend Developer Roadmap for 2022
+
 ## 31st July, 2022
 
 ### JavaScript & TypeScript
