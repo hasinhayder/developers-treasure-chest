@@ -6,6 +6,11 @@ Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The
 ### JavaScript & TypeScript
 
 * [atropos js](https://atroposjs.com/) - Stunning touch-friendly 3D parallax hover effects
+* [A few must-learn JavaScript hacks](https://blog.devgenius.io/a-few-must-learn-javascript-hacks-50c84dfb5010)
+* An introduction to [Fresh](https://blog.openreplay.com/an-introduction-to-fresh) - The promising deno framework
+* [Authentication with JWT for your website](https://blog.openreplay.com/authentication-with-jwt-for-your-website) - A nice article on getting started with JWT based authentications
+* [Learn Game Development with JavaScript - Full Course](https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/) - JavaScript can be used to develop a bunch of different types of games. And games created with JavaScript can run on almost any device with a web browser.
+* [Ultimate React Router v6 Guide](https://blog.webdevsimplified.com/2022-07/react-router/) - React Router is the most popular routing library in React, but it can be a bit complicated to wrap your head around some of the more complex features. That is why in this article I will be breaking down everything you need to know about React Router
 
 
 ### Articles / Tutorials
@@ -22,6 +27,7 @@ Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The
 * [Docusaurus](https://docusaurus.io/)  - ⚡️ Docusaurus will help you ship a beautiful documentation site in no time.
 * [Relume Library](https://library.relume.io/) - Access the world’s largest library of Webflow components and build better websites in hours, not days.
 * [KeyViz](https://mularahul.github.io/) - Visualize your keypress reltime (Open Source)
+* [Padlock](https://itsfoss.com/padloc/) - An open source password manager
 
 ### Misc
 
