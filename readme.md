@@ -3,11 +3,16 @@ Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The
 
 ## 1st August, 2022
 
-### PHP 
+### Articles / Tutorials
+
+* [Coding Blocks For Gutenberg, WordPress](https://code.tutsplus.com/courses/coding-blocks-for-wordpress-gutenberg) - Join Jeremy McPeak as he teaches you how to create blocks, specialized WordPress plugins that extend the functionality of the Gutenberg editor.
+
+### PHP / Laravel
 
 * [JWT Framework](https://web-token.spomky-labs.com) - This project is a framework that provides an implementation of JWS, JWE, JWK, JWA and JWT
+* [Build a REST API With Laravel](https://code.tutsplus.com/courses/build-a-rest-api-with-laravel) - Everything you need to know to build RESTful APIs with Laravel. Follow along as Jeremy codes a complete API
 
-### Misc 
+### Misc
 
 * [FrontEnd Developer Roadmap](https://www.linkedin.com/posts/slobodan-gajic_frontend-roadmap-activity-6958457082626863104-MHsY?utm_source=linkedin_share&utm_medium=member_desktop_web) - A Fantastic Frontend Developer Roadmap
 * [Backend Developer Roadmap](https://www.linkedin.com/posts/slobodan-gajic_backend-roadmap-activity-6959173689858752513-BH2r?utm_source=linkedin_share&utm_medium=member_desktop_web) - A great Backend Developer Roadmap for 2022
