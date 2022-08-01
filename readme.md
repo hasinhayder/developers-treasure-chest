@@ -3,6 +3,11 @@ Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The
 
 ## 1st August, 2022
 
+### JavaScript & TypeScript
+
+* [atropos js](https://atroposjs.com/) - Stunning touch-friendly 3D parallax hover effects
+
+
 ### Articles / Tutorials
 
 * [Coding Blocks For Gutenberg, WordPress](https://code.tutsplus.com/courses/coding-blocks-for-wordpress-gutenberg) - Join Jeremy McPeak as he teaches you how to create blocks, specialized WordPress plugins that extend the functionality of the Gutenberg editor.
@@ -11,6 +16,12 @@ Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The
 
 * [JWT Framework](https://web-token.spomky-labs.com) - This project is a framework that provides an implementation of JWS, JWE, JWK, JWA and JWT
 * [Build a REST API With Laravel](https://code.tutsplus.com/courses/build-a-rest-api-with-laravel) - Everything you need to know to build RESTful APIs with Laravel. Follow along as Jeremy codes a complete API
+
+### SaaS / Tools
+
+* [Docusaurus](https://docusaurus.io/)  - ⚡️ Docusaurus will help you ship a beautiful documentation site in no time.
+* [Relume Library](https://library.relume.io/) - Access the world’s largest library of Webflow components and build better websites in hours, not days.
+* [KeyViz](https://mularahul.github.io/) - Visualize your keypress reltime (Open Source)
 
 ### Misc
 
@@ -56,18 +67,17 @@ Interesting Github Repos, SaaS Applications, News, Tools, and Technology For The
 * [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [Windmill Dashboard - TailwindCSS](https://windmillui.com/dashboard-html)  - A multi theme, completely accessible, ready for production dashboard.
 
-### Blockchain 
+### Blockchain
 
 * [Trustwallet/Assets](https://github.com/trustwallet/assets)- A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 * [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 * [Scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - Forkable Ethereum dev stack focused on fast product iterations
 
-### Python 
+### Python
 
 * [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 
-### Misc Languages 
+### Misc Languages
 
 * [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts, written in Go.
 * [nsqio/nsq](https://nsq.io/) - A realtime distributed messaging platform in Go
-
